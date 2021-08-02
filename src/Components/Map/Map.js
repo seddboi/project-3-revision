@@ -1,5 +1,5 @@
 import React from 'react';
-import CreateMap from './map-creation';
+import CreateMap from '../Hooks/map-creation';
 
 function Map() {
 
